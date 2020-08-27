@@ -1,8 +1,8 @@
 name: flutter_plugin_test_toast
 description: test for nxtoast plugin
 version: 0.0.1
-author:
-homepage:
+author: Ghost
+homepage: https://github.com/GhostInMatrix/flutter_plugin_test_toast/blob/master/README.md
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
